@@ -1,0 +1,1742 @@
+{
+    "movies": {
+        "2020": {
+            "action_adventure": [
+                {
+                    "images": {
+                        "postor": "https://res.cloudinary.com/animesh-jha/image/upload/v1688327605/TheRoundReview/movies/Rogue%20Warfare:%20Death%20of%20a%20Nation/561811_m1596730255-3882622042_doqfjo.jpg",
+                        "banner": "https://res.cloudinary.com/animesh-jha/image/upload/v1688327590/TheRoundReview/movies/Rogue%20Warfare:%20Death%20of%20a%20Nation/8fOtNU0NNMnF8tEvqtVD6YhBb5x-3855547245_cqku9i.jpg",
+                        "backdrops": [
+                            "https://res.cloudinary.com/animesh-jha/image/upload/v1688327613/TheRoundReview/movies/Rogue%20Warfare:%20Death%20of%20a%20Nation/th-2293607263_wyttew.jpg",
+                            "https://res.cloudinary.com/animesh-jha/image/upload/v1688327627/TheRoundReview/movies/Rogue%20Warfare:%20Death%20of%20a%20Nation/th-2858498279_wtmy96.jpg"
+                        ]
+                    },
+                    "video": {
+                        "trailer": "https://youtu.be/f13cAExFYkI"
+                    },
+                    "type": "Movie",
+                    "title": "Rogue Warfare: Death of a Nation",
+                    "director": "Mike Gunther",
+                    "cast": "Will Yun Lee, Jermaine Love, Rory Markham, Bertrand-Xavier Corbi, Katie Keene, Fernando Chien, Gina DeCesare, Michael Blalock, Stephen Lang, Chris Mulkey",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "R",
+                    "duration": "99 min",
+                    "genre": "Action & Adventure",
+                    "description": "As their leader recovers from trauma, a global team of elite soldiers must regroup and stop the deadly plans of an extremist mastermind within 36 hours."
+                },
+                {
+                    "images": {
+                        "postor": "https://res.cloudinary.com/animesh-jha/image/upload/v1688331508/TheRoundReview/movies/Jiu%20Jitsu/Jiu-Jitsu-teaser-poster-3344485664_htlzop.jpg",
+                        "banner": "https://res.cloudinary.com/animesh-jha/image/upload/v1688331558/TheRoundReview/movies/Jiu%20Jitsu/lfO0BjbxPT5NMlw1JUv7fQqDHwt-2635636660_xsmt1i.jpg",
+                        "backdrops": [
+                            "https://res.cloudinary.com/animesh-jha/image/upload/v1688331587/TheRoundReview/movies/Jiu%20Jitsu/kGv4HC75QVCq0YeqHhChCIZOVqe_kb48mj.jpg"
+                        ]
+                    },
+                    "video": {
+                        "trailer": "https://youtu.be/3A6EezjgsxU"
+                    },
+                    "type": "Movie",
+                    "title": "Jiu Jitsu",
+                    "director": "Dimitri Logothetis",
+                    "cast": "Alain Moussi, Nicolas Cage, Tony Jaa, Rick Yune, Frank Grillo, Marie Avgeropoulos, JuJu Chan, Ryan Tarran, Eddie Steeples, Raymond Pinharry, Mary Makariou",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "R",
+                    "duration": "102 min",
+                    "genre": "Action & Adventure",
+                    "description": "After the defeat of a celebrated war hero, an ancient order of fighters battles powerful space invaders as the fate of humanity hangs in the balance."
+                },
+                {
+                    "images": {
+                        "postor": "https://res.cloudinary.com/animesh-jha/image/upload/v1688332373/TheRoundReview/movies/Ava/qzA87Wf4jo1h8JMk9GilyIYvwsA_vsb21z.jpg",
+                        "banner": "https://res.cloudinary.com/animesh-jha/image/upload/v1688332389/TheRoundReview/movies/Ava/iy1VXdfXlMSkzpSd6sQ3Zm6HLSH_mk3ul3.jpg",
+                        "backdrops": [
+                            "https://res.cloudinary.com/animesh-jha/image/upload/v1688332404/TheRoundReview/movies/Ava/dzqa1nKoa2bFIg1D9CD1UZbuPLw_zjemun.jpg"
+                        ]
+                    },
+                    "video": {
+                        "trailer": "https://youtu.be/eLEwNo78f0k"
+                    },
+                    "type": "Movie",
+                    "title": "Ava",
+                    "director": "Tate Taylor",
+                    "cast": "Jessica Chastain, Colin Farrell, John Malkovich, Common, Geena Davis, Jess Weixler, Diana Silvers, Joan Chen, Ioan Gruffudd",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "R",
+                    "duration": "97 min",
+                    "genre": "Action & Adventure, Dramas",
+                    "description": "An elite assassin wrestling with doubts about her work scrambles to protect herself â and her estranged family â after a hit goes dangerously wrong."
+                },
+                {
+                    "images": {
+                        "postor": "https://res.cloudinary.com/animesh-jha/image/upload/v1688332696/TheRoundReview/movies/The%202nd/bHI9rQZKdq1KWXhuWTEO0DP7Wle_wcrftm.jpg",
+                        "banner": "https://res.cloudinary.com/animesh-jha/image/upload/v1688333257/TheRoundReview/movies/The%202nd/1B98YF58r21d7RJx0uGxmzWqRMC_cd6qm0.jpg",
+                        "backdrops": [
+                            "https://res.cloudinary.com/animesh-jha/image/upload/v1688332741/TheRoundReview/movies/The%202nd/oB9CvmzyRUaGwYUu5nA55qu4V3W_asoyhj.jpg",
+                            "https://res.cloudinary.com/animesh-jha/image/upload/v1688332736/TheRoundReview/movies/The%202nd/mVlNcgLUDZrVfOWb4PypEtO1NjH_gtqnfd.jpg"
+                        ]
+                    },
+                    "video": {
+                        "trailer": "https://youtu.be/z1LZzxsyXG0"
+                    },
+                    "type": "Movie",
+                    "title": "The 2nd",
+                    "director": "Brian Skiba",
+                    "cast": "Ryan Phillippe, Casper Van Dien, Jack Griffo, Lexi Simonsen, Richard Burgi, William Katt, Samaire Armstrong, William McNamara, Jacob Grodnik",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "93 min",
+                    "genre": "Action & Adventure",
+                    "description": "A Secret Service agent is drawn into a terrorist plot when his son's classmate, the daughter of a Supreme Court Justice, is targeted for kidnapping."
+                },
+                {
+                    "images": {
+                        "postor": "https://res.cloudinary.com/animesh-jha/image/upload/v1688332932/TheRoundReview/movies/Mosul/dW1UNgDkVNreqYJk1YKo4ACa705_zalvln.jpg",
+                        "banner": "https://res.cloudinary.com/animesh-jha/image/upload/v1688332938/TheRoundReview/movies/Mosul/7MMZkeczBx8eBzCvtuK6IoUVvnk_kw26tf.jpg",
+                        "backdrops": [
+                            "https://res.cloudinary.com/animesh-jha/image/upload/v1688332941/TheRoundReview/movies/Mosul/7zKtMLia68iSXvwQEoJzW8GOI1G_o4ueji.jpg"
+                        ]
+                    },
+                    "video": {
+                        "trailer": "https://youtu.be/Z9bw8MGkB-A"
+                    },
+                    "type": "Movie",
+                    "title": "Mosul",
+                    "director": "Matthew Michael Carnahan",
+                    "cast": "Suhail Dabbach, Adam Bessa, Is'haq Elias, Qutaiba Abdelhaq, Ahmad El Ghanem, Hicham Ouarqa, Mohimen Mahbuba, Thaer Al-Shayei, Abdellah Bensaid, Faycal Attougui, Mohamed Attougui, Tarik Belmekki, Hayat Kamille, Seema Al Khalidi, Waleed Algadi",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "103 min",
+                    "genre": "Action & Adventure, Dramas, International Movies",
+                    "description": "After his life is saved by a rogue Iraqi squadron, a young police officer joins them in their fight against ISIS in a decimated Mosul."
+                },
+                {
+                    "images": {
+                        "postor": "https://res.cloudinary.com/animesh-jha/image/upload/v1688333028/TheRoundReview/movies/Hard%20Kill/ugZW8ocsrfgI95pnQ7wrmKDxIe_ugwbsb.jpg",
+                        "banner": "https://res.cloudinary.com/animesh-jha/image/upload/v1688333041/TheRoundReview/movies/Hard%20Kill/d0yeb7JgmuYwlfX2MKV7tK6vAZr_rqtyfe.jpg",
+                        "backdrops": [
+                            "https://res.cloudinary.com/animesh-jha/image/upload/v1688333046/TheRoundReview/movies/Hard%20Kill/u2GHjfQJ5C1oAGIPZKHolA6H0Qv_dqdfqc.jpg",
+                            "https://res.cloudinary.com/animesh-jha/image/upload/v1688333034/TheRoundReview/movies/Hard%20Kill/86L8wqGMDbwURPni2t7FQ0nDjsH_ilkqd1.jpg",
+                            "https://res.cloudinary.com/animesh-jha/image/upload/v1688333052/TheRoundReview/movies/Hard%20Kill/tIO3R12EtJmtpA6vy6Mwzzckx2K_vdiem5.jpg"
+                        ]
+                    },
+                    "video": {
+                        "trailer": "https://youtu.be/7Y6-w5Psupw"
+                    },
+                    "type": "Movie",
+                    "title": "Hard Kill",
+                    "director": "Matt Eskandari",
+                    "cast": "Jesse Metcalfe, Bruce Willis, Natalie Eva Marie, Lala Kent, Texas Battle, Swen Temmel, Sergio Rizzuto, Tyler Jon Olson, Jon Galanis",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "R",
+                    "duration": "98 min",
+                    "genre": "Action & Adventure",
+                    "description": "When a billionaire hires a team of mercenaries for protection, they soon realize world-changing technology and his daughterâs life are also at stake."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Tremors: Shrieker Island",
+                    "director": "Don Michael Paul",
+                    "cast": "Michael Gross, Jon Heder, Caroline Langrishe, Cassie Clare, Matthew Douglas, Sahajak Boonthanakit, David Asavanond, Jackie Cruz, Richard Brake",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "PG-13",
+                    "duration": "102 min",
+                    "genre": "Action & Adventure, Horror Movies",
+                    "description": "When massive mutant creatures infiltrate an island nature preserve, scientists recruit a legendary monster hunter to battle the beasts."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Welcome to Sudden Death",
+                    "director": "Dallas Jackson",
+                    "cast": "Michael Jai White, Michael Eklund, Sabryn Rock, Nakai Takawira, Lyric Justice, Sagine Semajuste, Gary Owen, Anthony Grant, Kristen Harris, BJ Verot, Sean Skene, Marrese Crump, Stephanie Sy, Jeff Strome, Adam Hurtig, Gillian White, Anthony J. Mifsud",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "R",
+                    "duration": "80 min",
+                    "genre": "Action & Adventure",
+                    "description": "At a basketball game, an ex-Special Forces officer must face a group of tech-savvy hostiles when a team owner and his daughter are taken hostage."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "The Debt Collector 2",
+                    "director": "Jesse V. Johnson",
+                    "cast": "Scott Adkins, Louis Mandylor, Vladimir Kulich, Marina Sirtis, Ski Carr, Charity Collins, Mayling Ng, Josef Cannon, Jermaine Jacox, Vernon Wells",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "97 min",
+                    "genre": "Action & Adventure",
+                    "description": "French and Sue have two days to collect on three debts, using as much force as it takes â all while evading the wrath of a crime lord out for revenge."
+                }
+            ],
+            "horror": [
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "The Old Ways",
+                    "director": "Christopher Alender",
+                    "cast": "Brigitte Kali Canales, Andrea Cortes, Julia Vera, Sal Lopez",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "90 min",
+                    "genre": "Horror Movies",
+                    "description": "A reporter visits her birthplace in Veracruz for a story about tribal culture, only to be kidnapped by locals who believe she's demonically possessed."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "What Lies Below",
+                    "director": "Braden R. Duemmler",
+                    "cast": "Ema Horvath, Trey Tucker, Mena Suvari, Haskiri Velazquez, Danny Corbo, Olan Montgomery, Troy Iwata",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "88 min",
+                    "genre": "Horror Movies, Thrillers",
+                    "description": "Back home at her lake house, a teenager begins to suspect that a sinister force lurks beneath the surface of her mother's too-perfect new lover."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "The Block Island Sound",
+                    "director": "Kevin McManus, Matthew McManus",
+                    "cast": "Chris Sheffield, Michaela McManus, Neville Archambault, Ryan O'Flanagan, Matilda Lawler, Jim Cummings, Jeremy Holm, Heidi Niedermeyer, Willie C. Carpenter, Matthew Lawler",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "99 min",
+                    "genre": "Horror Movies, Independent Movies",
+                    "description": "On an island, a fisherman's family faces horrors and dark truths when an ominous force begins killing the wildlife and puts their own lives in danger."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Tremors: Shrieker Island",
+                    "director": "Don Michael Paul",
+                    "cast": "Michael Gross, Jon Heder, Caroline Langrishe, Cassie Clare, Matthew Douglas, Sahajak Boonthanakit, David Asavanond, Jackie Cruz, Richard Brake",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "PG-13",
+                    "duration": "102 min",
+                    "genre": "Action & Adventure, Horror Movies",
+                    "description": "When massive mutant creatures infiltrate an island nature preserve, scientists recruit a legendary monster hunter to battle the beasts."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Hubie Halloween",
+                    "director": "Steve Brill",
+                    "cast": "Adam Sandler, Kevin James, Julie Bowen, Ray Liotta, Steve Buscemi, Maya Rudolph, Rob Schneider, June Squibb, Kenan Thompson, Tim Meadows, Michael Chiklis, Karan Brar, George Wallace, Paris Berelc, Noah Schnapp, China Anne McClain, Colin Quinn, Kym Whitley, Lavell Crawford, Mikey Day, Jackie Sandler, Sadie Sandler, Sunny Sandler",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "PG-13",
+                    "duration": "104 min",
+                    "genre": "Comedies, Horror Movies",
+                    "description": "Hubie's not the most popular guy in Salem, Mass., but when Halloween turns truly spooky, this good-hearted scaredy-cat sets out to keep his town safe."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Vampires vs. the Bronx",
+                    "director": "Oz Rodriguez",
+                    "cast": "Jaden Michael, Gerald W. Jones III, Gregory Diaz IV, Sarah Gadon, Method Man, Shea Whigham, Coco Jones, The Kid Mero, Chris Redd, Vladimir CaamaÃ±o, Jeremie Harris, Adam David Thompson, Zoe Saldana",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "PG-13",
+                    "duration": "86 min",
+                    "genre": "Comedies, Horror Movies",
+                    "description": "Three gutsy kids from a rapidly gentrifying Bronx neighborhood stumble upon a sinister plot to suck all the life from their beloved community."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "The Babysitter: Killer Queen",
+                    "director": "McG",
+                    "cast": "Judah Lewis, Jenna Ortega, Emily Alyn Lind, Andrew Bachelor, Robbie Amell, Bella Thorne, Hana Mae Lee, Ken Marino, Leslie Bibb, Chris Wylde, Carl McDowell",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "102 min",
+                    "genre": "Comedies, Horror Movies",
+                    "description": "Two years after Cole survived a satanic blood cult, he's living another nightmare: high school. And the demons from his past? Still making his life hell."
+                }
+            ],
+            "documentaries": [
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Dick Johnson Is Dead",
+                    "director": "Kirsten Johnson",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "PG-13",
+                    "duration": "90 min",
+                    "genre": "Documentaries",
+                    "description": "As her father nears the end of his life, filmmaker Kirsten Johnson stages his death in inventive and comical ways to help them both face the inevitable."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Born to Play",
+                    "director": "Viridiana Lieberman",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "93 min",
+                    "genre": "Documentaries, Sports Movies",
+                    "description": "This documentary follows the Boston Renegades â an all-woman, tackle football team â as they risk their time, families and day jobs for the game."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Picture a Scientist",
+                    "director": "Ian Cheney, Sharon Shattuck",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "97 min",
+                    "genre": "Documentaries",
+                    "description": "In this documentary, leading women scientists discuss the inequalities they've faced as they set out to create a new formula to make STEM open to all."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "In Our Mothers' Gardens",
+                    "director": "Shantrelle P. Lewis",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "85 min",
+                    "genre": "Documentaries",
+                    "description": "An unplanned pregnancy upends the carefree lives of a young woman and her flatmate as they discover the struggles of single motherhood."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Dark City Beneath the Beat",
+                    "director": "TT The Artist",
+                    "cast": "Uneek, Mighty Mark, Tsu Terry, TT The Artist",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "65 min",
+                    "genre": "Documentaries, Music & Musicals",
+                    "description": "In this documentary, TT the Artist captures the irrepressible bounce and infectious beats of a Baltimore club scene that demands to be seen and heard."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "The Last Blockbuster",
+                    "director": "Taylor Morden",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-14",
+                    "duration": "87 min",
+                    "genre": "Documentaries",
+                    "description": "This nostalgic documentary reveals the real story of Blockbuster's demise, and how one last location in Oregon keeps the spirit of a bygone era alive."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Ariana grande: excuse me, i love you",
+                    "director": "Paul Dugdale",
+                    "cast": "Ariana Grande",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "98 min",
+                    "genre": "Documentaries, Music & Musicals",
+                    "description": "Ariana Grande takes the stage in London for her Sweetener World Tour and shares a behind-the-scenes look at her life in rehearsal and on the road."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Giving Voice",
+                    "director": "James D. Stern, Fernando Villena",
+                    "cast": "Viola Davis, Denzel Washington, Stephen Henderson, Freedom Martin, Nia Sarfo, Cody Merridith, Gerardo Navarro, Aaron Guy, Callie Holley",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "PG-13",
+                    "duration": "91 min",
+                    "genre": "Documentaries",
+                    "description": "Six ambitious student actors audition for the prestigious August Wilson Monologue Competition, culminating in a riveting final round on Broadway."
+                }
+            ]
+        },
+        "2021": {
+            "action_adventure": [
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Kate",
+                    "director": "Cedric Nicolas-Troyan",
+                    "cast": "Mary Elizabeth Winstead, Jun Kunimura, Woody Harrelson, Tadanobu Asano, Miyavi, Michiel Huisman, Miku Martineau",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "R",
+                    "duration": "106 min",
+                    "genre": "Action & Adventure",
+                    "description": "Slipped a fatal poison on her final job, a ruthless assassin working in Tokyo has less than 24 hours to find out who ordered the hit and exact revenge."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Sweet Girl",
+                    "director": "Brian Andrew Mendoza",
+                    "cast": "Jason Momoa, Isabela Merced, Manuel Garcia-Rulfo, Amy Brenneman, Adria Arjona, Raza Jaffrey, Justin Bartha, Lex Scott Davis, Michael Raymond-James",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "R",
+                    "duration": "110 min",
+                    "genre": "Action & Adventure, Dramas",
+                    "description": "He lost the love of his life to a pharmaceutical company's greed. Now his daughter is without a mother, and he's without justice. For now."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "The Paper Tigers",
+                    "director": "Quoc Bao Tran",
+                    "cast": "Alain Uy, Ron Yuan, Mykel Shannon Jenkins, Jae Suh Park, Matthew Page, Joziah Lagonoy, Raymond Ma",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "PG-13",
+                    "duration": "111 min",
+                    "genre": "Action & Adventure, Comedies",
+                    "description": "After reuniting as middle-aged men, three kung-fu prodigies must set their differences aside and dust off their skills to avenge their beloved mentor."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Cosmic Sin",
+                    "director": "Edward Drake",
+                    "cast": "Frank Grillo, Bruce Willis, Brandon Thomas Lee, Corey Large, Perrey Reeves, C.J. Perry, Lochlyn Munro, Costas Mandylor, Adelaide Kane, Eva De Dominici, Sarah May Sommers, Trevor Gretzky",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "R",
+                    "duration": "88 min",
+                    "genre": "Action & Adventure",
+                    "description": "In the year 2524, a disgraced retired general is called back into combat to help prevent an interstellar war against a hostile alien fleet."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "America: The Motion Picture",
+                    "director": "Matt Thompson",
+                    "cast": "Channing Tatum, Jason Mantzoukas, Olivia Munn, Andy Samberg, Bobby Moynihan, Judy Greer, Will Forte, Raoul Trujillo, Killer Mike, Simon Pegg",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-MA",
+                    "duration": "98 min",
+                    "genre": "Action & Adventure, Comedies",
+                    "description": "A chainsaw-wielding George Washington teams with beer-loving bro Sam Adams to take down the Brits in a tongue-in-cheek riff on the American Revolution."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Army of the Dead",
+                    "director": "Zack Snyder",
+                    "cast": "Dave Bautista, Ella Purnell, Omari Hardwick, Garret Dillahunt, Ana de la Reguera, Theo Rossi, Matthias SchweighÃ¶fer, Nora Arnezeder, Hiroyuki Sanada, Tig Notaro, RaÃºl Castillo, Huma Qureshi, Samantha Win, Richard Cetrone, Michael Cassidy",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "R",
+                    "duration": "148 min",
+                    "genre": "Action & Adventure, Horror Movies",
+                    "description": "After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Shadow and Bone - The Afterparty",
+                    "cast": "David Spade, London Hughes, Fortune Feimster, Ben Barnes, Jessie Mei Li, Archie Renaux, Amita Suman, Freddy Carter, Kit Young",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-14",
+                    "duration": "33 min",
+                    "genre": "Action & Adventure, Comedies, Dramas",
+                    "description": "Stars of Netflix's \"Shadow and Bone\" discuss the show's epic combat scenes, answer some fan questions and play an \"Army vs. Crows\" trivia game."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Thunder Force",
+                    "director": "Ben Falcone",
+                    "cast": "Melissa McCarthy, Octavia Spencer, Jason Bateman, Bobby Cannavale, Pom Klementieff, Melissa Leo, Taylor Mosby, Marcella Lowery, Melissa Ponzio",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "PG-13",
+                    "duration": "107 min",
+                    "genre": "Action & Adventure, Comedies",
+                    "description": "Two childhood best friends reunite as an unlikely crime-fighting superhero duo when one invents a formula that gives ordinary people superpowers."
+                }
+            ],
+            "horror": [
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Aftermath",
+                    "director": "Peter Winther",
+                    "cast": "Ashley Greene, Shawn Ashmore, Sharif Atkins, Britt Baron, Diana Hopper, Ross McCall, Jamie Kaler, Travis Coles, Susan Walters, Jason Liles",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-MA",
+                    "duration": "115 min",
+                    "genre": "Horror Movies",
+                    "description": "Desperate to save their marriage, a young couple takes a deal and moves into their dream home, but disturbing events reveal the house's troubled history."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "The Seventh Day",
+                    "director": "Justin P. Lange",
+                    "cast": "Guy Pearce, Vadhir Derbez, Stephen Lang, Brady Jenness, Chris Galust, Robin Bartlett, Heath Freeman, Keith David",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "R",
+                    "duration": "87 min",
+                    "genre": "Horror Movies",
+                    "description": "An inexperienced priest teams up with a hardened exorcist to stop the demonic possession of a young boy. But darkness lies where they least expect it."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "The Devil Below",
+                    "director": "Bradley Parker",
+                    "cast": "Alicia Sanz, Will Patton, Jonathan Sadowski, Adan Canto, Zach Avery, Chinaza Uche, Jesse LaTourette",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-MA",
+                    "duration": "89 min",
+                    "genre": "Horror Movies",
+                    "description": "When a team of researchers tries to find out what started a fire in a coal mine, they quickly discover that the disaster is anything but natural."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Army of the Dead",
+                    "director": "Zack Snyder",
+                    "cast": "Dave Bautista, Ella Purnell, Omari Hardwick, Garret Dillahunt, Ana de la Reguera, Theo Rossi, Matthias SchweighÃ¶fer, Nora Arnezeder, Hiroyuki Sanada, Tig Notaro, RaÃºl Castillo, Huma Qureshi, Samantha Win, Richard Cetrone, Michael Cassidy",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "R",
+                    "duration": "148 min",
+                    "genre": "Action & Adventure, Horror Movies",
+                    "description": "After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever."
+                }
+            ],
+            "documentaries": [
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Untold: Breaking Point",
+                    "director": "Chapman Way, Maclain Way",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-MA",
+                    "duration": "80 min",
+                    "genre": "Documentaries, Sports Movies",
+                    "description": "Under pressure to continue a winning tradition in American tennis, Mardy Fish faced mental health challenges that changed his life on and off the court."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Untold: Malice at the Palace",
+                    "director": "Floyd Russ",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-MA",
+                    "duration": "70 min",
+                    "genre": "Documentaries, Sports Movies",
+                    "description": "Key figures from an infamous 2004 incident between players and fans at an NBA game in Michigan discuss the fight, its fallout and its lasting legacy."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Pray Away",
+                    "director": "Kristine Stolakis",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "PG-13",
+                    "duration": "102 min",
+                    "genre": "Documentaries, LGBTQ Movies",
+                    "description": "Ex-leaders and a survivor of the so-called \"conversion therapy\" movement speak out about its harm to the LGBTQ+ community and its devastating persistence."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Breaking Boundaries: The Science Of Our Planet",
+                    "director": "Jonathan Clay",
+                    "cast": "David Attenborough, Johan RockstrÃ¶m",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-PG",
+                    "duration": "74 min",
+                    "genre": "Documentaries",
+                    "description": "David Attenborough and scientist Johan RockstrÃ¶m examine Earth's biodiversity collapse and how this crisis can still be averted."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Amy Tan: Unintended Memoir",
+                    "director": "James Redford",
+                    "cast": "Amy Tan",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-14",
+                    "duration": "101 min",
+                    "genre": "Documentaries",
+                    "description": "From her painful past to her successful career after \"The Joy Luck Club,\" groundbreaking writer Amy Tan shares her life story in this documentary."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "Why Did You Kill Me?",
+                    "director": "Fredrick Munk",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-MA",
+                    "duration": "84 min",
+                    "genre": "Documentaries",
+                    "description": "The line between justice and revenge blurs when a devastated family uses social media to track down the people who killed 24-year-old Crystal Theobald."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "Movie",
+                    "title": "7 Yards: The Chris Norton Story",
+                    "director": "Jonathon Link",
+                    "cast": "Chris Norton",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-PG",
+                    "duration": "93 min",
+                    "genre": "Documentaries",
+                    "description": "The true story of former college football player Chris Norton, who defied the odds after a devastating accident â with the woman he loves by his side."
+                }
+            ]
+        }
+    },
+    "tvSeries": {
+        "2020": {
+            "action_adventure": [
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "The Liberator",
+                    "cast": "Bradley James, Martin Sensmeier, Jose Miguel Vasquez, Forrest Goodluck, Bryan Hibbard, Matt Mercurio, Harrison Stone, Billy Breed, Tatanka Means, Kiowa Gordon",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "1 Season",
+                    "genre": "TV Action & Adventure, TV Dramas",
+                    "description": "A diverse, deeply brave crew of ragtag soldiers become some of the most heroic fighters of the European invasion in World War II. Based on true events."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Marvel's Agents of S.H.I.E.L.D.",
+                    "cast": "Clark Gregg, Ming-Na Wen, Brett Dalton, Chloe Bennet, Iain De Caestecker, Elizabeth Henstridge, Adrianne Palicki, Luke Mitchell, Henry Simmons",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-14",
+                    "duration": "7 Seasons",
+                    "genre": "TV Action & Adventure, TV Sci-Fi & Fantasy",
+                    "description": "Agent Phil Coulson, seen in action in Marvel's The Avengers, assembles a team of top S.H.I.E.L.D. agents to investigate bizarre threats."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Tiny Creatures",
+                    "cast": "Mike Colter",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-PG",
+                    "duration": "1 Season",
+                    "genre": "Docuseries, Science & Nature TV, TV Action & Adventure",
+                    "description": "Little animals embark on big adventures across the U.S. in a dramatic nature series that explores their hidden worlds and epic survival stories."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Wizards: Tales of Arcadia",
+                    "cast": "Colin O'Donoghue, David Bradley, Lena Headey, Emile Hirsch, Lexi Medrano, Steven Yeun, Alfred Molina, James Faulkner, Stephanie Beatriz, John Rhys-Davies",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-Y7",
+                    "duration": "1 Season",
+                    "genre": "Kids' TV, TV Action & Adventure, TV Sci-Fi & Fantasy",
+                    "description": "Merlinâs apprentice joins Arcadiaâs heroes on a time-bending adventure in Camelot, where conflict is brewing between the human, troll and magical worlds."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "The Epic Tales of Captain Underpants in Space",
+                    "cast": "Nat Faxon, Jay Gragnani, Ramone Hamilton, Sean Astin, Dayci Brookshire, Jorge Diaz, Peter Hastings, Evan Kishiyama, David Koechner, Erica Luttrell, Brennan Murray, Nolan North, Gary Anthony Williams, Secunda Wood",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-Y7",
+                    "duration": "1 Season",
+                    "genre": "Kids' TV, TV Action & Adventure, TV Comedies",
+                    "description": "Best friends George and Harold â along with their classmates and tyrannical principal â are recruited for a mysterious mission in outer space."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Warrior Nun",
+                    "cast": "Alba Baptista, Toya Turner, Lorena Andrea, Kristina Tonteri-Young, TristÃ¡n Ulloa",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "1 Season",
+                    "genre": "TV Action & Adventure, TV Mysteries, TV Sci-Fi & Fantasy",
+                    "description": "After waking up in a morgue, an orphaned teen discovers she now possesses superpowers as the chosen Halo-Bearer for a secret sect of demon-hunting nuns."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "DC's Legends of Tomorrow",
+                    "director": "Rob Seidenglanz",
+                    "cast": "Victor Garber, Brandon Routh, Caity Lotz, Franz Drameh, Amy Pemberton, Dominic Purcell, Maisie Richardson-Sellers, Nick Zano, Arthur Darvill, Wentworth Miller, Tala Ashe, Adam Tsekhman, Christina Brucato, Simon Merrells, Nils Hognestad, Jes Macallan, Keiynan Lonsdale",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-14",
+                    "duration": "5 Seasons",
+                    "genre": "TV Action & Adventure, TV Sci-Fi & Fantasy",
+                    "description": "A mysterious \"time master\" from the future unites an unlikely group of superheroes and villains to save the world from a powerful evil."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "She-Ra and the Princesses of Power",
+                    "cast": "Aimee Carrero, AJ Michalka, Marcus Scribner, Karen Fukuhara, Reshma Shetty, Lorraine Toussaint, Keston John, Lauren Ash, Christine Woods, Morla Gorrondona, Antony Del Rio, Dana Davis, Grey Griffin, Genesis Rodriguez, Jordan Fisher, Vella Lovell, Merit Leighton, Sandra Oh, Krystal Joy Brown",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-Y7",
+                    "duration": "5 Seasons",
+                    "genre": "Kids' TV, TV Action & Adventure, TV Sci-Fi & Fantasy",
+                    "description": "Soldier Adora finds a magic sword â and her identity as legendary hero She-Ra. She joins the Rebellion, but her best friend stays with the evil Horde."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Altered Carbon",
+                    "cast": "Joel Kinnaman, James Purefoy, Martha Higareda, RenÃ©e Elise Goldsberry, Dichen Lachman, Will Yun Lee, Kristin Lehman, Chris Conner, Ato Essandoh, Tamara Taylor, Byron Mann",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "2 Seasons",
+                    "genre": "Crime TV Shows, TV Action & Adventure, TV Dramas",
+                    "description": "After 250 years on ice, a prisoner returns to life in a new body with one chance to win his freedom: by solving a mind-bending murder."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "October Faction",
+                    "cast": "Tamara Taylor, J.C. MacKenzie, Aurora Burghart, Gabriel Darku, Maxim Roy, Stephen McHattie, Wendy Crewson, Megan Follows, Nicola Correia-Damude, Praneet Akilla, Michelle Nolden, Anwen O'Driscoll",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "1 Season",
+                    "genre": "TV Action & Adventure, TV Dramas, TV Horror",
+                    "description": "The family drama gets downright monstrous as parents Fred and Deloris hunt the supernatural, and twins Viv and Geoff harbor their own strange secrets."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Medical Police",
+                    "cast": "Erinn Hayes, Rob Huebel, Malin Akerman, Rob Corddry, Lake Bell, Sarayu Blue, Ken Marino, Fred Melamed, Tom Wright, Jason Schwartzman, Eric Nenninger, Megan Le, Beth Dover, Zandy Hartig, Brian Huskey, Michael Cera",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "1 Season",
+                    "genre": "Crime TV Shows, TV Action & Adventure, TV Comedies",
+                    "description": "Doctors Owen Maestro and Lola Spratt leave Childrens Hospital and join a secret arm of the CDC to investigate and destroy a deadly global virus."
+                }
+            ],
+            "horror": [
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Chilling Adventures of Sabrina",
+                    "cast": "Kiernan Shipka, Ross Lynch, Miranda Otto, Lucy Davis, Chance Perdomo, Michelle Gomez, Richard Coyle, Jaz Sinclair, Lachlan Watson, Tati Gabrielle, Adeline Rudolph, Abigail Cowen, Gavin Leatherwood, Bronson Pinchot",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-14",
+                    "duration": "4 Seasons",
+                    "genre": "TV Horror, TV Mysteries, TV Sci-Fi & Fantasy",
+                    "description": "Magic and mischief collide as half-human, half-witch Sabrina navigates between two worlds: mortal teen life and her family's legacy, the Church of Night."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "The Haunting of Bly Manor",
+                    "cast": "Victoria Pedretti, Oliver Jackson-Cohen, Henry Thomas, Amelia Eve, T'Nia Miller, Rahul Kohli, Tahirah Sharif, Amelie Bea Smith, Benjamin Evan Ainsworth",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "1 Season",
+                    "genre": "TV Dramas, TV Horror, TV Mysteries",
+                    "description": "Dead doesn't mean gone. An au pair plunges into an abyss of chilling secrets in this gothic romance from the creator of \"The Haunting of Hill House.\""
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Ratched",
+                    "cast": "Sarah Paulson, Finn Wittrock, Judy Davis, Sharon Stone, Cynthia Nixon, Jon Jon Briones, Charlie Carver",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "1 Season",
+                    "genre": "TV Dramas, TV Horror, TV Mysteries",
+                    "description": "In 1947, Mildred Ratched begins working as a nurse at a leading psychiatric hospital. But beneath her stylish exterior lurks a growing darkness."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "The Order",
+                    "cast": "Jake Manley, Sarah Grey, Max Martini, Matt Frewer, Adam DiMarco, Katharine Isabelle, Louriza Tronco, Aaron Hale, Devery Jacobs, Thomas Elms, Dylan Playfair, Ian Tracey, Sam Trammell",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "2 Seasons",
+                    "genre": "International TV Shows, TV Dramas, TV Horror",
+                    "description": "Out to avenge his mother's death, a college student pledges a secret order and lands in a war between werewolves and practitioners of dark magic."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "October Faction",
+                    "cast": "Tamara Taylor, J.C. MacKenzie, Aurora Burghart, Gabriel Darku, Maxim Roy, Stephen McHattie, Wendy Crewson, Megan Follows, Nicola Correia-Damude, Praneet Akilla, Michelle Nolden, Anwen O'Driscoll",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "1 Season",
+                    "genre": "TV Action & Adventure, TV Dramas, TV Horror",
+                    "description": "The family drama gets downright monstrous as parents Fred and Deloris hunt the supernatural, and twins Viv and Geoff harbor their own strange secrets."
+                }
+            ],
+            "mysteries": [
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Dirty John",
+                    "cast": "Connie Britton, Eric Bana, Juno Temple, Julia Garner, Jean Smart, Keiko Agena, Jeff Perry, Kevin Zegers, Jake Abel",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "2 Seasons",
+                    "genre": "Crime TV Shows, TV Dramas, TV Mysteries",
+                    "description": "Businesswoman Debra Newell's life unravels when she falls for the lies and manipulation of con man John Meehan. Based on the true-crime podcast."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "The Sinner",
+                    "cast": "Jessica Biel, Bill Pullman, Christopher Abbott, Abby Miller, Dohn Norwood",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "3 Seasons",
+                    "genre": "Crime TV Shows, TV Dramas, TV Mysteries",
+                    "description": "When a young mother inexplicably stabs a stranger to death, a sympathetic detective struggles to unlock the mystery buried in her missing memories."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Chilling Adventures of Sabrina",
+                    "cast": "Kiernan Shipka, Ross Lynch, Miranda Otto, Lucy Davis, Chance Perdomo, Michelle Gomez, Richard Coyle, Jaz Sinclair, Lachlan Watson, Tati Gabrielle, Adeline Rudolph, Abigail Cowen, Gavin Leatherwood, Bronson Pinchot",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-14",
+                    "duration": "4 Seasons",
+                    "genre": "TV Horror, TV Mysteries, TV Sci-Fi & Fantasy",
+                    "description": "Magic and mischief collide as half-human, half-witch Sabrina navigates between two worlds: mortal teen life and her family's legacy, the Church of Night."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Tiny Pretty Things",
+                    "cast": "Lauren Holly, Kylie Jefferson, Casimere Jollette, Brennan Clost, Barton Cowperthwaite, Bayardo De Murguia, Damon J. Gillespie, Anna Maiche, Daniela Norman, Michael Hsu Rosen, Tory Trowbridge",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "1 Season",
+                    "genre": "TV Dramas, TV Mysteries, TV Thrillers",
+                    "description": "When an attack brings down the star student at an elite ballet school, her replacement enters a world of lies, betrayal â and cutthroat competition."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "The Haunting of Bly Manor",
+                    "cast": "Victoria Pedretti, Oliver Jackson-Cohen, Henry Thomas, Amelia Eve, T'Nia Miller, Rahul Kohli, Tahirah Sharif, Amelie Bea Smith, Benjamin Evan Ainsworth",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "1 Season",
+                    "genre": "TV Dramas, TV Horror, TV Mysteries",
+                    "description": "Dead doesn't mean gone. An au pair plunges into an abyss of chilling secrets in this gothic romance from the creator of \"The Haunting of Hill House.\""
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Ratched",
+                    "cast": "Sarah Paulson, Finn Wittrock, Judy Davis, Sharon Stone, Cynthia Nixon, Jon Jon Briones, Charlie Carver",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "1 Season",
+                    "genre": "TV Dramas, TV Horror, TV Mysteries",
+                    "description": "In 1947, Mildred Ratched begins working as a nurse at a leading psychiatric hospital. But beneath her stylish exterior lurks a growing darkness."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Warrior Nun",
+                    "cast": "Alba Baptista, Toya Turner, Lorena Andrea, Kristina Tonteri-Young, TristÃ¡n Ulloa",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "1 Season",
+                    "genre": "TV Action & Adventure, TV Mysteries, TV Sci-Fi & Fantasy",
+                    "description": "After waking up in a morgue, an orphaned teen discovers she now possesses superpowers as the chosen Halo-Bearer for a secret sect of demon-hunting nuns."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "How to Get Away with Murder",
+                    "cast": "Viola Davis, Billy Brown, Alfred Enoch, Jack Falahee, Katie Findlay, Aja Naomi King, Matt McGorry, Karla Souza, Charlie Weber, Liza Weil",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-14",
+                    "duration": "6 Seasons",
+                    "genre": "Crime TV Shows, TV Dramas, TV Mysteries",
+                    "description": "Brilliant criminal defense attorney and law professor Annalise Keating, plus five of her students, become involved in a twisted murder case."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "13 Reasons Why",
+                    "cast": "Dylan Minnette, Katherine Langford, Kate Walsh, Derek Luke, Brian d'Arcy James, Alisha Boe, Christian Navarro, Miles Heizer, Ross Butler, Devin Druid, Michele Selene Ang, Steven Silver, Amy Hargreaves",
+                    "country": "United States",
+                    "release_year": 2020,
+                    "rating": "TV-MA",
+                    "duration": "4 Seasons",
+                    "genre": "Crime TV Shows, TV Dramas, TV Mysteries",
+                    "description": "After a teenage girl's perplexing suicide, a classmate receives a series of tapes that unravel the mystery of her tragic choice."
+                }
+            ]
+        },
+        "2021": {
+            "action_adventure": [
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Q-Force",
+                    "cast": "Sean Hayes, Wanda Sykes, Laurie Metcalf, David Harbour, Gary Cole, Patti Harrison, Matt Rogers",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-MA",
+                    "duration": "1 Season",
+                    "genre": "Crime TV Shows, TV Action & Adventure, TV Comedies",
+                    "description": "A gay superspy and his scrappy LGBTQ squad fight to prove themselves to the agency that underestimated them. Today, West Hollywoodâ¦ tomorrow, the world!"
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Outer Banks",
+                    "cast": "Chase Stokes, Madelyn Cline, Madison Bailey, Jonathan Daviss, Rudy Pankow, Charles Esten, Adina Porter, Austin North, Drew Starkey",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-MA",
+                    "duration": "2 Seasons",
+                    "genre": "TV Action & Adventure, TV Dramas, Teen TV Shows",
+                    "description": "On an island of haves and have-nots, teen John B enlists his three best friends to hunt for a legendary treasure linked to his father's disappearance."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "The Flash",
+                    "director": "Glen Winter",
+                    "cast": "Grant Gustin, Candice Patton, Danielle Panabaker, Carlos Valdes, Tom Cavanagh, Jesse L. Martin, Neil Sandilands, Britne Oldford, Danielle Nicolet, Keiynan Lonsdale, Kim Engelbrecht",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-14",
+                    "duration": "7 Seasons",
+                    "genre": "Crime TV Shows, TV Action & Adventure, TV Sci-Fi & Fantasy",
+                    "description": "A forensics expert who wakes from a coma with amazing new powers squares off against forces threatening the city in this live-action superhero romp."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Black Lightning",
+                    "cast": "Cress Williams, James Remar, Marvin 'Krondon' Jones III, Jill Scott, China Anne McClain, Damon Gupton, Nafessa Williams, Christine Adams",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-14",
+                    "duration": "4 Seasons",
+                    "genre": "TV Action & Adventure, TV Dramas, TV Sci-Fi & Fantasy",
+                    "description": "School principal and retired superhero Jefferson Pierce leaps back into action as the legendary Black Lightning after a gang threatens his family."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "L.A.âs Finest",
+                    "cast": "Jessica Alba, Gabrielle Union",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-MA",
+                    "duration": "2 Seasons",
+                    "genre": "Crime TV Shows, TV Action & Adventure, TV Comedies",
+                    "description": "In this spinoff of the \"Bad Boys\" franchise, two police detectives team up while trying to keep their stormy pasts â and differences â from interfering."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Sweet Tooth",
+                    "cast": "Nonso Anozie, Christian Convery, Adeel Akhtar, Stefania LaVie Owen, Dania Ramirez, Aliza Vellani, Will Forte, James Brolin, Neil Sandilands, Mia Artemis",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-14",
+                    "duration": "1 Season",
+                    "genre": "TV Action & Adventure, TV Dramas, TV Sci-Fi & Fantasy",
+                    "description": "On a perilous adventure across a post-apocalyptic world, a lovable boy who's half-human and half-deer searches for a new beginning with a gruff protector."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Jurassic World Camp Cretaceous",
+                    "cast": "Paul-MikÃ©l Williams, Jenna Ortega, Sean Giambrone, Kausar Mohammed, Ryan Potter, Raini Rodriguez, Jameela Jamil, Glen Powell",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-Y7",
+                    "duration": "3 Seasons",
+                    "genre": "Kids' TV, TV Action & Adventure, TV Sci-Fi & Fantasy",
+                    "description": "Six teens invited to attend a state-of-the-art adventure camp on Isla Nublar must band together to survive when the dinosaurs break out of captivity."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Love, Death & Robots",
+                    "cast": "Topher Grace, Mary Elizabeth Winstead, Gary Cole, Samira Wiley, Daisuke Tsuji, Maurice LaMarche, Rebecca Riedy, Helen Sadler, Hayley McLaughlin, Time Winters, Elly Condron, Stefan Kapicic, Bruce Thomas, Jeff Berg, Aaron Himelstein, Carlos Alazraqui, Jill Talley, Brian Bloom, Chris Cox, Michael Benyaer, Fred Tatasciore, Scott Whyte, Josh Brener, Gary Anthony Williams, Chris Parnell, Graham Hamilton, Adam Bartley, Kevin Michael Richardson, Emma Thornett, Henry Douthwaite, Madeleine Knight, Rebecca Banatvala, Kirk Thornton, Yuri Lowenthal, Elaine Tan, Matthew Yang King, Gwendoline Yeo, Neil Kaplan, G.K. Bowes, Courtenay Taylor",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-MA",
+                    "duration": "2 Seasons",
+                    "genre": "TV Action & Adventure, TV Horror, TV Sci-Fi & Fantasy",
+                    "description": "Terrifying creatures, wicked surprises and dark comedy converge in this NSFW anthology of animated stories presented by Tim Miller and David Fincher."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Jupiter's Legacy",
+                    "cast": "Josh Duhamel, Ben Daniels, Leslie Bibb, Andrew Horton, Elena Kampouris, Matt Lanter, Mike Wade, Tenika Davis, Ian Quinlan, David Julian Hirsh, Tyler Mane",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-MA",
+                    "duration": "1 Season",
+                    "genre": "TV Action & Adventure, TV Sci-Fi & Fantasy",
+                    "description": "They're the first generation of superheroes. But as they pass the torch to their children, tensions are rising â and the old rules no longer apply."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Shadow and Bone",
+                    "cast": "Jessie Mei Li, Archie Renaux, Ben Barnes, Freddy Carter, Amita Suman, Kit Young, Danielle Galligan, Calahan Skogman, Sujaya Dasgupta, Simon Sears, Daisy Head, ZoÃ« Wanamaker, Luke Pasqualino, Julian Kostov",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-14",
+                    "duration": "1 Season",
+                    "genre": "TV Action & Adventure, TV Dramas, TV Sci-Fi & Fantasy",
+                    "description": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Disenchantment",
+                    "cast": "Abbi Jacobson, Eric AndrÃ©, Nat Faxon, John DiMaggio, Tress MacNeille, Matt Berry, David Herman, Maurice LaMarche, Lucy Montgomery, Billy West",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-14",
+                    "duration": "3 Seasons",
+                    "genre": "TV Action & Adventure, TV Comedies, TV Sci-Fi & Fantasy",
+                    "description": "Princess duties call, but she'd rather be drinking. Free-spirited Bean exasperates the king as she wreaks havoc with her demon and elf pals."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Cobra Kai",
+                    "cast": "Ralph Macchio, William Zabka, Xolo MaridueÃ±a, Martin Kove, Mary Mouser, Tanner Buchanan, Courtney Henggeler, Jacob Bertrand",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-14",
+                    "duration": "3 Seasons",
+                    "genre": "TV Action & Adventure, TV Comedies, TV Dramas",
+                    "description": "Decades after the tournament that changed their lives, the rivalry between Johnny and Daniel reignites in this sequel to the \"Karate Kid\" films."
+                }
+            ],
+            "horror": [
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Brand New Cherry Flavor",
+                    "cast": "Rosa Salazar, Eric Lange, Catherine Keener, Jeff Ward, Manny Jacinto, Hannah Levien, Patrick Fischler",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-MA",
+                    "duration": "1 Season",
+                    "genre": "TV Dramas, TV Horror, TV Mysteries",
+                    "description": "A filmmaker heads to Hollywood in the early '90s to make her movie but tumbles down a hallucinatory rabbit hole of sex, magic, revenge â and kittens."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Love, Death & Robots",
+                    "cast": "Topher Grace, Mary Elizabeth Winstead, Gary Cole, Samira Wiley, Daisuke Tsuji, Maurice LaMarche, Rebecca Riedy, Helen Sadler, Hayley McLaughlin, Time Winters, Elly Condron, Stefan Kapicic, Bruce Thomas, Jeff Berg, Aaron Himelstein, Carlos Alazraqui, Jill Talley, Brian Bloom, Chris Cox, Michael Benyaer, Fred Tatasciore, Scott Whyte, Josh Brener, Gary Anthony Williams, Chris Parnell, Graham Hamilton, Adam Bartley, Kevin Michael Richardson, Emma Thornett, Henry Douthwaite, Madeleine Knight, Rebecca Banatvala, Kirk Thornton, Yuri Lowenthal, Elaine Tan, Matthew Yang King, Gwendoline Yeo, Neil Kaplan, G.K. Bowes, Courtenay Taylor",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-MA",
+                    "duration": "2 Seasons",
+                    "genre": "TV Action & Adventure, TV Horror, TV Sci-Fi & Fantasy",
+                    "description": "Terrifying creatures, wicked surprises and dark comedy converge in this NSFW anthology of animated stories presented by Tim Miller and David Fincher."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Castlevania",
+                    "cast": "Richard Armitage, James Callis, Graham McTavish, Alejandra Reynoso, Tony Amendola, Matt Frewer, Emily Swallow",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-MA",
+                    "duration": "4 Seasons",
+                    "genre": "Anime Series, TV Horror, TV Thrillers",
+                    "description": "A vampire hunter fights to save a besieged city from an army of otherworldly beasts controlled by Dracula himself. Inspired by the classic video games."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Prank Encounters",
+                    "cast": "Gaten Matarazzo",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-MA",
+                    "duration": "2 Seasons",
+                    "genre": "Reality TV, TV Comedies, TV Horror",
+                    "description": "Monstrous frights meet hilarious reveals on this hidden-camera prank show as real people become the stars of their own full-blown horror movie."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Two Sentence Horror Stories",
+                    "cast": "Nicole Kang, Jim Parrack, Tara Pacheco, Christopher Shyer, Kimberley Wong, Wai Ching Ho, Greta Quispe, Zaria Degenhardt, Uly Schlesinger, Kate Jennings Grant, Aleyse Shannon, Guillermo Arribas, Jaiden Smith, Pepper Binkley, Mikelle Wright-Matos, Melinda Mo",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-14",
+                    "duration": "2 Seasons",
+                    "genre": "TV Horror, Teen TV Shows",
+                    "description": "This anthology series of terror features diverse characters facing primal fears in spine-chilling situations that stretch past daily routine."
+                }
+            ],
+            "mysteries": [
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Manifest",
+                    "cast": "Melissa Roxburgh, Josh Dallas, Athena Karkanis, J.R. Ramirez, Luna Blaise, Jack Messina, Parveen Kaur",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-14",
+                    "duration": "3 Seasons",
+                    "genre": "TV Dramas, TV Mysteries, TV Sci-Fi & Fantasy",
+                    "description": "When a plane mysteriously lands years after takeoff, the people onboard return to a world that has moved on without them and face strange, new realities."
+                },
+                {
+                    "images": {
+                        "postor": "",
+                        "banner": "",
+                        "backdrops": []
+                    },
+                    "video": {
+                        "trailer": ""
+                    },
+                    "type": "TV Show",
+                    "title": "Brand New Cherry Flavor",
+                    "cast": "Rosa Salazar, Eric Lange, Catherine Keener, Jeff Ward, Manny Jacinto, Hannah Levien, Patrick Fischler",
+                    "country": "United States",
+                    "release_year": 2021,
+                    "rating": "TV-MA",
+                    "duration": "1 Season",
+                    "genre": "TV Dramas, TV Horror, TV Mysteries",
+                    "description": "A filmmaker heads to Hollywood in the early '90s to make her movie but tumbles down a hallucinatory rabbit hole of sex, magic, revenge â and kittens."
+                }
+            ]
+        }
+    }
+}
